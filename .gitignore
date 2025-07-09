@@ -1,0 +1,14 @@
+# GCP credentials
+.gcp_keys/
+
+# Environment variables
+.env
+
+# Python cache and logs
+__pycache__/
+*.pyc
+*.log
+
+# IDE/project-specific
+.vscode/
+.DS_Store
